@@ -1,0 +1,46 @@
+# MODEL3efebe
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**about** | **string** |  | [optional] 
+**account_executive_id** | **string** |  | [optional] 
+**address_city** | **string** |  | 
+**address_complement** | **string** |  | [optional] 
+**address_country** | **string** |  | [optional] 
+**address_neighbourhood** | **string** |  | [optional] 
+**address_number** | **string** |  | 
+**address_postal_code** | **string** |  | 
+**address_reference** | **string** |  | [optional] 
+**address_state** | **string** |  | 
+**address_street** | **string** |  | 
+**birthdate** | **string** |  | [optional] 
+**blocked** | **bool** |  | [optional] 
+**brand** | **string** |  | 
+**certificate_url** | **string** |  | [optional] 
+**cnpj** | **string** |  | [optional] 
+**company_name** | **string** |  | [optional] 
+**cpf** | **string** |  | 
+**crt** | **string** |  | 
+**email** | **string** |  | 
+**features** | **string** |  | [optional] 
+**ie** | **string** |  | 
+**invite_id** | **string** |  | [optional] 
+**invoice_default_serial_number** | **int** |  | [optional] 
+**invoice_initial_number** | **int** |  | [optional] 
+**is_active** | **bool** |  | [optional] 
+**iugu_account_id** | **string** |  | [optional] 
+**logo_url** | **string** |  | [optional] 
+**mobile_phone** | **string** |  | 
+**name** | **string** |  | 
+**paused** | **bool** |  | [optional] 
+**phone** | **string** |  | [optional] 
+**picture_url** | **string** |  | [optional] 
+**status** | **string** |  | [optional] 
+**terms_of_use_version** | **int** |  | [optional] 
+**treatment** | **string** |  | [optional] 
+**password** | **string** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
